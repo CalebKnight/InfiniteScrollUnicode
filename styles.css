@@ -1,0 +1,16 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll; /* Change back to vertical scrolling */
+  }
+  
+  #container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .character {
+    padding: 5px;
+    font-size: 18px;
+  }
